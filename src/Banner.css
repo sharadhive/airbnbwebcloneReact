@@ -1,0 +1,53 @@
+.banner{
+    background: url("https://images.pexels.com/photos/775219/pexels-photo-775219.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    /* height: 50vh; */
+    position: relative;
+   
+
+}
+.info{
+    color: white;
+    background-color: black;
+    padding-bottom: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 40px;
+    padding-top: 25vh;
+    width: 300px;
+}
+
+
+
+.info > button{
+    background-color: rgb(244, 98, 129);
+    color: white;
+    text-transform: inherit;
+    margin-top: 20px;
+    font-weight: 600;
+}
+.info > button:hover {
+    background-color: white;
+    color: rgb(244, 98, 129);
+}
+
+
+
+ .bannerSearch{
+    display: flex;
+    flex-direction: column;
+    
+   
+} 
+
+.bannerSearch{
+    background-color: white;
+    font-weight: 900;
+    text-transform: inherit;
+    color: rgb(244, 98, 129);
+
+}
+
+
+.info > h5{
+    margin-top:10px ;
+}
